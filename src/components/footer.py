@@ -1,7 +1,7 @@
 import streamlit as st
 
 def footer_home():
-    file_id = "1RgNuW5zDSfvZQhN_GrSHIKKnybWC1-Rx"
+    #file_id = "1RgNuW5zDSfvZQhN_GrSHIKKnybWC1-Rx"
 
     logo_url = (f"https://i.ibb.co/fGy70fXD/R-K-Logic-Loop-Logo.png &sz=w500")
     st.markdown(f"""
